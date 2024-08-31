@@ -25,11 +25,11 @@ This project is a Shopping Mall Management System developed using Spring Boot. I
 
 ## Project Structure
 in.ac.jssateb.mallmanagement/ 
-├── controller/ 
-├── model/ 
-├── repository/ 
-├── service/ 
-|── ShoppingMallManagementSystemApplication.java
+├── controller/   
+├── model/  
+├── repository/  
+├── service/  
+|── ShoppingMallManagementSystemApplication.java  
 
 - **controller/**: Contains REST controllers.
 - **model/**: Contains entity classes.
