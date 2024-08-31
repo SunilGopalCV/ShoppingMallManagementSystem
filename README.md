@@ -24,7 +24,12 @@ This project is a Shopping Mall Management System developed using Spring Boot. I
 - Secure and efficient data handling using Spring Data JPA and MySQL.
 
 ## Project Structure
-in.ac.jssateb.mallmanagement/ ├── controller/ ├── model/ ├── repository/ ├── service/ └── ShoppingMallManagementSystemApplication.java
+in.ac.jssateb.mallmanagement/ 
+├── controller/ 
+├── model/ 
+├── repository/ 
+├── service/ 
+|── ShoppingMallManagementSystemApplication.java
 
 - **controller/**: Contains REST controllers.
 - **model/**: Contains entity classes.
